@@ -9,3 +9,4 @@ The circuit can be used in audio signal processing. It is useful for sensor sign
 The circuit can be used in audio signal processing. It is useful for sensor signal conditioning. It can also be applied in embedded and industrial systems where noise reduction is required.
 The filter is first-order and does not provide a very sharp cutoff. Component tolerances can affect accuracy. The performance is limited by op-amp characteristics.
 This project demonstrates the importance of analog signal conditioning and shows how basic components can be used to improve signal quality in practical systems.
+<img width="560" height="249" alt="Screenshot 2026-04-16 100915" src="https://github.com/user-attachments/assets/de35c4a8-3fb6-4a55-b149-aa2e4a4d8ebc" />
